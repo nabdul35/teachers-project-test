@@ -3,7 +3,6 @@
 	"logo" : "teachers-project-logo-gradient.png",
 	"about" : "This is Teachers Project.",
 	"menu" : {
-		
 		"About" : "https://docs.google.com/document/d/1uGgTFSG09qPZ3hjsQMjWEPLZGOasbNtbdJ4YGfQZj9c/edit",
 		"First Page" : "https://docs.google.com/document/d/1F7-aMY9I3kSilP13lQKVQHDMtwdv__rer5m3H0UPukM/edit",
 		"Second Page" : "https://docs.google.com/document/d/1tqcYutvuiMCtXtIxwA8PA66iOfmnfFLoT1f2_fI66SI/edit",
@@ -12,3 +11,4 @@
 		"Fifth Page" : "https://docs.google.com/document/d/1_Fxc_WF_8n3o2zMhYEOZM3a1u7eOPSHfww4PswaLcUo/edit"
 	}
 }
+menu["First Page"] = "Editorial Statement;
