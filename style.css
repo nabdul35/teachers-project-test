@@ -45,9 +45,9 @@ body {
 	font: 15px/20px monospace;
     letter-spacing: -0.3px;
 	cursor: move;
-	    box-shadow: #fefb00 3px 3px 0, 6px 6px 0px #ff0000;
+	    box-shadow: #00FF31 3px 3px 0, 6px 6px 0px #5100FF;
 	border-style: solid;
-	border-color: blue;
+	border-color: #FF00D7;
 	background-color: #eee;
 }
 
