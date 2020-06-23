@@ -42,7 +42,7 @@ body {
 	z-index:10;
 	padding: 13px;
 	padding-right: 15px;
-	font: 15px/20px roboto condensed;
+	font: 15px/20px roboto condensed light;
 	font-weight: normal;
     letter-spacing: -0.3px;
 	cursor: move;
