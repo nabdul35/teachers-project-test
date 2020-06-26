@@ -1,6 +1,9 @@
 {
 	"title": "Teachers Project Test",
-	"logo" : "the-teachers-project-gradient-logo-sq.gif",
+	"logo" : {
+		"The Teachers Project" : "https://nabdul35.github.io/teachers-project/#Home"
+	},
+		
 	"about" : "",
 	"menu" : {
 		"About" : "https://docs.google.com/document/d/1uGgTFSG09qPZ3hjsQMjWEPLZGOasbNtbdJ4YGfQZj9c/edit",
